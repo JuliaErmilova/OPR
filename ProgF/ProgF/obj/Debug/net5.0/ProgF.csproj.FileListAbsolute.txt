@@ -1,0 +1,16 @@
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.exe
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.deps.json
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.dll
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ref\ProgF.dll
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\bin\Debug\net5.0\ProgF.pdb
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.dll
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ref\ProgF.dll
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.pdb
+C:\Users\Пользователь\Desktop\Для Юли\ПРАКТ1\ProgF\ProgF\obj\Debug\net5.0\ProgF.genruntimeconfig.cache
